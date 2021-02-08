@@ -9,9 +9,9 @@ This document gives a brief overview of how the worlds were built and then how t
 ## Requirements
 Working with this system setup:
 
-Gazebo 7
-Ros
-Ubuntu 16.04
+- Gazebo 7
+- Ros
+- Ubuntu 16.04
 
 
 ## Installing
