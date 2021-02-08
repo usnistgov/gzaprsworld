@@ -6,7 +6,7 @@
 
 This document gives a brief overview of how the worlds were built and then how to configure the World SDF file for Gazebo. Various models of the APRS laboratory are available, with configurable selections for versions, kitting models, robots, flags and the like.
 
--- Requirements
+## Requirements
 Working with this system setup:
 
 Gazebo 7
@@ -14,11 +14,11 @@ Ros
 Ubuntu 16.04
 
 
--- Installing
+## Installing
 
 Clone the github repository. There is no build.
 
--- Running 
+## Running 
 Using the existing bash script, agilitylab.bash, which 
 
 	cd bin
@@ -32,7 +32,7 @@ and
 
 ![Gazebo XTerm](./images/gzworldsetup_gzterm.gif)
 
-Gazebo will load slowly and 
+Gazebo will load slowly and eventually you will see the Agility Lab:
 
 ![Gazebo Scene](./images/gzworldsetup_aprslab.gif)
 
